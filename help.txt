@@ -1,2 +1,6 @@
 this is the help file in text format
 ------------------------------------
+ludo_board.pptx --> Raw ppt file to change
+ludo_board.mp4  --> Generated mp4 file to run
+
+
